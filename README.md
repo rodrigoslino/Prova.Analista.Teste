@@ -5,7 +5,7 @@ Prova Anaslita de Teste
 
 Exercício 1: O plano seria separar cada projeto com seus módulos e tipos de testes(teste integrado, teste unitário, teste de aceitação, teste de interface e etc).
 A ferramenta "Jenkins" por exemplo possui uma API e através de um projeto particular é possível desenvolver uma interface executando todos os testes, após commits enviados ao repositório, após a publicação de uma nova versão do sistema ou até mesmo a execução manual.
-![alt text](https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/Ci.png)
+![alt text](https://github.com/rodrigoslino/Prova.Analista.Teste/blob/da5a99aac287c422918e6da813738313dc8f0854/src/Ci.png)
 
 
 Exercício 4:
