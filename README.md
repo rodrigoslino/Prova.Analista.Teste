@@ -12,6 +12,7 @@ Obs. Ler o readme do projeto. (link para readme: https://github.com/rodrigoslino
 
 Exercício 4: Entrar na pasta "src" e abrir o arquivo "Prova.Analista.Teste.sln" no visual sutdio 2015. Lá dentro existirá o projeto "Correios.Api.Tests".
 Obs. Ler o readme do projeto.
+(link para readme: https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/src/Correios.Api.Tests/README.md)
 
 Exercício 5: Utilizaria o próprio Report do Specflow e personalizaria conforme fosse a necessidade.
 
