@@ -8,6 +8,8 @@ A ferramenta "Jenkins" por exemplo possui uma API e através de um projeto parti
 
 Exercício 2 e 3: Entrar na pasta "src" e abrir o arquivo "Prova.Analista.Teste.sln" no visual sutdio 2015. Lá dentro existirá o projeto "Ecommerce.Ui.Tests".
 Obs. Ler o readme do projeto. (link para readme: https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/src/Ecommerce.Ui.Tests/README.md)
+
+Segue imagem abaixo de apenas uma parte do Report do projeto de teste fron-end.
 ![alt text](https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/src/Ecommerce.Ui.Tests/Report.png)
 
 Exercício 4: Entrar na pasta "src" e abrir o arquivo "Prova.Analista.Teste.sln" no visual sutdio 2015. Lá dentro existirá o projeto "Correios.Api.Tests".
@@ -16,7 +18,7 @@ Obs. Ler o readme do projeto.
 
 Exercício 5: Utilizaria o próprio Report do Specflow e personalizaria conforme fosse a necessidade.
 
-Segue imagem de exemplo abaixo do Report do projeto para Api dos Correios do exercício 4.
+Segue imagem de exemplo abaixo do Report completo do projeto para Api dos Correios do exercício 4.
 ![alt text](https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/src/Correios.Api.Tests/Report.png)
 
 Exercício 6:
