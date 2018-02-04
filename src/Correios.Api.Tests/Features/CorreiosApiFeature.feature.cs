@@ -104,7 +104,7 @@ this.ScenarioSetup(scenarioInfo);
 #line hidden
         }
         
-        public virtual void ConsultarAPIDosCorreiosComCepInvalido(string cep, string endereco, string[] exampleTags)
+        public virtual void ConsultarAPIDosCorreiosComCepInvalido(string cep, string[] exampleTags)
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Consultar API dos Correios com cep inválido", exampleTags);
 #line 17
@@ -119,17 +119,17 @@ this.ScenarioSetup(scenarioInfo);
             this.ScenarioCleanup();
         }
         
-        [TechTalk.SpecRun.ScenarioAttribute("Consultar API dos Correios com cep inválido, 02945-081", SourceLine=23)]
-        public virtual void ConsultarAPIDosCorreiosComCepInvalido_02945_081()
-        {
-            this.ConsultarAPIDosCorreiosComCepInvalido("02945-081", "(Erro)", ((string[])(null)));
-#line hidden
-        }
-        
         [TechTalk.SpecRun.ScenarioAttribute("Consultar API dos Correios com cep inválido, 02945-091", SourceLine=23)]
         public virtual void ConsultarAPIDosCorreiosComCepInvalido_02945_091()
         {
-            this.ConsultarAPIDosCorreiosComCepInvalido("02945-091", "(Erro)", ((string[])(null)));
+            this.ConsultarAPIDosCorreiosComCepInvalido("02945-091", ((string[])(null)));
+#line hidden
+        }
+        
+        [TechTalk.SpecRun.ScenarioAttribute("Consultar API dos Correios com cep inválido, 02945-081", SourceLine=23)]
+        public virtual void ConsultarAPIDosCorreiosComCepInvalido_02945_081()
+        {
+            this.ConsultarAPIDosCorreiosComCepInvalido("02945-081", ((string[])(null)));
 #line hidden
         }
         

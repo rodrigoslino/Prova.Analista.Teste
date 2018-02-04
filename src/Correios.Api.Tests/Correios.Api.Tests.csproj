@@ -77,12 +77,12 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Default.srprofile">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="Features\CorreiosApiFeature.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>CorreiosApiFeature.feature.cs</LastGenOutput>
-    </None>
-    <None Include="Default.srprofile">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="packages.config" />
     <None Include="README.md" />

@@ -20,6 +20,6 @@ Scenario Outline: Consultar API dos Correios com cep inválido
 	Then retornado json com erro
 
 Scenarios: 
-		| Cep        | Endereco                    |
-		| 02945-081  | (Erro)                      |
-		| 02945-091  | (Erro)                      |
+		| Cep        |
+		| 02945-091  |
+		| 02945-081  |
