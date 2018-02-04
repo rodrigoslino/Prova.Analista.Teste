@@ -7,7 +7,8 @@ A ferramenta "Jenkins" por exemplo possui uma API e através de um projeto parti
 ![alt text](https://github.com/rodrigoslino/Prova.Analista.Teste/blob/da5a99aac287c422918e6da813738313dc8f0854/src/Ci.png)
 
 Exercício 2 e 3: Entrar na pasta "src" e abrir o arquivo "Prova.Analista.Teste.sln" no visual sutdio 2015. Lá dentro existirá o projeto "Ecommerce.Ui.Tests".
-Obs. Ler o readme do projeto.
+Obs. Ler o readme do projeto. (link para readme: https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/src/Ecommerce.Ui.Tests/README.md)
+![alt text](https://github.com/rodrigoslino/Prova.Analista.Teste/blob/master/src/Ecommerce.Ui.Tests/Report.png)
 
 Exercício 4: Entrar na pasta "src" e abrir o arquivo "Prova.Analista.Teste.sln" no visual sutdio 2015. Lá dentro existirá o projeto "Correios.Api.Tests".
 Obs. Ler o readme do projeto.
